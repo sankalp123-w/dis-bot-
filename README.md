@@ -1,7 +1,8 @@
 # dis-bot-
 A discord bot that sends gif based on your keyword and talks like character of harry potter
 
-
+###My Bot Ml model example:- 
+<iframe src="https://huggingface.co/sankalpjha1/mr.bot_haary" title="My bot model"></iframe>
 
 ### Prerequisites
 
